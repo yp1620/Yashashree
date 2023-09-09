@@ -1,2 +1,2 @@
-file:///C:/xampp/htdocs/Ecommerce-app-h/kanban%20board/index.html?
+http://localhost/Ecommerce-app-h/kanban%20board/
 
